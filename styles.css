@@ -34,7 +34,11 @@ h3{
 }
 #forget
 {
-	color:royalblue
+	color:royalblue;
+	text-decoration: none;
+}
+#forget:hover{
+	color:blue;
 }
 #create{
 	width:150px;
@@ -45,5 +49,7 @@ h3{
 	border-radius:5px;
     text-decoration: none;
 }
-
+#create:hover{
+	color:darkgreen;
 }
+
